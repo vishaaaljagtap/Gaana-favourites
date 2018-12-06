@@ -20,7 +20,11 @@ Gaana-favourites
 	2) Run following commands in terminal:
 		pip install selenium
 		pip install pynput
-	3) Run the python script "main.py".
+	3) Edit the python script 'main.py':
+		Enter email, password and name of any one song from Gaana favourites inside the empty strings.
+		Look for comments to find them within the code
+		
+	4) Run the python script "main.py".
 
 
 
