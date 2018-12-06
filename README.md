@@ -17,7 +17,7 @@ For Ubuntu:
  For Windows(with python installation):
  
 	1) Refer https://www.makeuseof.com/tag/install-pip-for-python/ for installing pip.
-	2) Run following commands in terminal:
+	2) Run following commands in terminal to install selenium and pynput:
 		pip install selenium
 		pip install pynput
 	3) Edit the python script 'main.py':
