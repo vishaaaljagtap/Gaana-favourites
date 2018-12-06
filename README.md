@@ -14,7 +14,8 @@ Gaana-favourites
 	
 
 
-For Windows(with python installation):
+ For Windows(with python installation):
+ 
 	1) Refer https://www.makeuseof.com/tag/install-pip-for-python/ for installing pip.
 	2) Run following commands in terminal:
 		pip install selenium
@@ -23,4 +24,4 @@ For Windows(with python installation):
 
 
 
-Enjoy Gaana!!!
+ Enjoy Gaana!!!
