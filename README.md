@@ -8,7 +8,7 @@ Gaana-favourites
 	Enter email, password and name of any one song from Gaana favourites inside the empty strings.
 	Look for comments to find them within the code.
 
-3)Run the python script "main.py":
+3.Run the python script "main.py":
 	Terminal :     python main.py
 
 Enjoy Gaana!!!
