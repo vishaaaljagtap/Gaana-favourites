@@ -19,7 +19,7 @@ def main():
 
 def Login(driver,email_id, password):
     driver.find_element_by_link_text('SIGNUP OR LOGIN').click()
-    driver.implicitly_wait(10)
+    driver.implicitly_wait(5)
     driver.find_element_by_class_name("emailopt").click()
 
     e = driver.find_element_by_id('email')
@@ -31,7 +31,7 @@ def Login(driver,email_id, password):
     for char in password :
         k.press(char)
         k.release(char)
-        time.sleep(0.12)
+        time.sleep(0.01)
     k.press(Key.enter)
     k.release(Key.enter)
 
