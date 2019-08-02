@@ -1,7 +1,7 @@
 Gaana-favourites
 
 
-For Ubuntu:
+For Linux:
 
 	1) Run the script "dependencies.sh" in the directory:
 		Terminal :	bash dependencies.sh      or      ./dependencies.sh
