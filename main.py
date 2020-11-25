@@ -11,7 +11,7 @@ def main():
     os.environ["webdriver.chrome.driver"] = chromedriver
     driver = sw.Chrome(chromedriver)
     driver.maximize_window()
-    driver.get("https://gaana.com/myfavoritetracks")
+    driver.get("https://gaana.com/music")
     Login(driver, email_id, password)
     Operate(driver,any_track)
     while True:
